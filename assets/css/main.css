@@ -156,6 +156,9 @@ select,
 textarea {
   -moz-appearance: none;
   -webkit-appearance: none;
+  appearance: none;
+  appearance: none;
+  appearance: none;
   -ms-appearance: none;
   appearance: none;
 }
